@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Recipe App</string>
+    <string name="header_welcome">Welcome</string>
+    <string name="header_register">Register your account before using the app</string>
+    <string name="enter_all_fields">Please enter all the fields</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_phone">Enter your phone number</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="btn_register_account">Register Now</string>
+    <string name="header_login">Now login to your created account</string>
+    <string name="btn_login_account">Login</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_recipe_list">My Recipe List</string>
+    <string name="header_list">The following is the recipes provided for you</string>
+    <string name="btn_logout">Logout</string>
+    <string name="dialog_header">ARE YOU SURE?</string>
+    <string name="dialog_body">This will clear out all your sessions and move you to the registration screen.</string>
+    <string name="dialog_button">Ok</string>
+</resources>
